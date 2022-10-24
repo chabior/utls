@@ -1,4 +1,4 @@
-module github.com/refraction-networking/utls
+module github.com/chabior/utls
 
 go 1.16
 
